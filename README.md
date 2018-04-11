@@ -1,5 +1,8 @@
 <p>The teacher understands and uses a variety of instructional strategies to encourage learners to develop deep understanding of content areas and their connections, and to build skills to apply knowledge in meaningful ways.</p>
 <h4>PDFs</h4>
+<p><a href="instructional%20strategy%20eval.pdf">InTASC 8 Instructional Strategy Evaluation</a></p>
+<p><a href="InTASC%208%20lesson%20plan.pdf">InTASC 8 Lesson Plan</a></p>
+<p><a href="InTASC%208%20reflection%20final.pdf">InTASC 8 Reflection</a></p>
 
 <h3 align="center">InTASC 8 Reflection</h3>
 <p>There are many instructional strategies that I have found during my time teaching to be highly effective in the classroom. These strategies include Turn and Talk/Think Pair Share, Competition, Manipulatives, Notice and Wonder, and Stations. During my time teaching in middle and high school, I have found these strategies to help with student learning and comprehension of content, and make the classroom a more welcoming environment. 
