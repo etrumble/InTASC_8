@@ -21,6 +21,7 @@ Adding competition to a classroom as an instructional strategy is wonderful. Man
 <p align="center"><a href="https://etrumble.github.io/InTASC_3/">InTASC 3</a></p>
 <p align="center"><a href="https://etrumble.github.io/InTASC_4/">InTASC 4</a></p>
 <p align="center"><a href="https://etrumble.github.io/InTASC_5/">InTASC 5</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_6/">InTASC 6</a></p>
 <p align="center"><a href="https://etrumble.github.io/InTASC_7/">InTASC 7</a></p>
 <p align="center"><a href="https://etrumble.github.io/InTASC_8/">InTASC 8</a></p>
 <p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
